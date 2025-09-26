@@ -15,7 +15,7 @@
 
 #  Sobre mim
 
-Olá! Meu nome é Maria, sou estudante de Análise e Desenvolvimento de Sistemas.
+Olá! sou estudante de Análise e Desenvolvimento de Sistemas.
 
 Desde o ensino técnico, venho mergulhando no universo da programação, sempre buscando aprender algo novo todos os dias.
 
