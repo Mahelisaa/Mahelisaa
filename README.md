@@ -30,7 +30,7 @@ Atualmente, estou focada em construir uma base sólida de conhecimento, exploran
 <details align="center">
     <summary>
       <samp>
-        <b>More Info</b>
+        <b>Mais informações</b>
       </samp>
     </summary>
     <br>
