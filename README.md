@@ -57,10 +57,9 @@ Atualmente, estou focada em construir uma base sólida de conhecimento, exploran
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mariaelisadossantos704@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)]([https://www.instagram.com/rafaelans0](https://www.instagram.com/marih.elisaa?igsh=Y3poczRoMWY5ajRm))
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/marih.elisaa?igsh=Y3poczRoMWY5ajRm)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5514998155182)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/maria-elisa-dos-santos-5b118b372?utm_source=share_via&utm_content=profile&utm_medium=member_android/)
- 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/maria-elisa-dos-santos-5b118b372)
 
 </div>
 
