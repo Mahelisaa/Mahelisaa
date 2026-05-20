@@ -14,12 +14,10 @@
 </div>
 
 #  Sobre mim
-
 Olá! Me chamo Maria Elisa, tenho 19 anos e sou apaixonada por tecnologia e desenvolvimento.
 Desde o ensino técnico, venho aprendendo cada vez mais sobre programação e explorando novas áreas da tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na PUCPR e estou sempre buscando evoluir, aprender coisas novas e desenvolver projetos práticos.
 
 ---
-
 ## 🚀 Objetivos
 
 - Evoluir constantemente na área da tecnologia
