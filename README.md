@@ -15,16 +15,17 @@
 
 #  Sobre mim
 
-Olá! sou estudante de Análise e Desenvolvimento de Sistemas.
+Olá! Me chamo Maria Elisa, tenho 19 anos e sou apaixonada por tecnologia e desenvolvimento.
+Desde o ensino técnico, venho aprendendo cada vez mais sobre programação e explorando novas áreas da tecnologia. Atualmente, curso Análise e Desenvolvimento de Sistemas na PUCPR e estou sempre buscando evoluir, aprender coisas novas e desenvolver projetos práticos.
 
-Desde o ensino técnico, venho mergulhando no universo da programação, sempre buscando aprender algo novo todos os dias.
+---
 
-Atualmente, estou focada em construir uma base sólida de conhecimento, explorando áreas como desenvolvimento web, lógica de programação, estruturas de dados e bancos de dados. Estou em busca da minha primeira oportunidade na área de TI, onde eu possa colocar em prática o que venho aprendendo e continuar evoluindo como profissional.
+## 🚀 Objetivos
 
-## 🎯 Objetivos
-- Conseguir minha primeira vaga como desenvolvedora júnior ou estagiária na área de TI  
-- Participar de projetos práticos para ganhar experiência  
-- Continuar estudando e me especializar em uma stack de desenvolvimento  
+- Evoluir constantemente na área da tecnologia
+- Participar de projetos práticos
+- Aprender novas tecnologias e ferramentas
+- Construir uma carreira sólida na área de desenvolvimento
 
 <br>
 <details align="center">
